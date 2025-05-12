@@ -13,7 +13,7 @@ The book used in the course:《数据结构（C语言版）》，严蔚敏。
 
 第五章 树和二叉树：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%A0%91%E5%92%8C%E4%BA%8C%E5%8F%89%E6%A0%91.pdf)
 
-第六章 图：[click here]()
+第六章 图：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E5%9B%BE.pdf)
 
 第七章 查找：[click here]()
 
