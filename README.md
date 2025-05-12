@@ -15,6 +15,6 @@ The book used in the course:《数据结构（C语言版）》，严蔚敏。
 
 第六章 图：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E5%9B%BE.pdf)
 
-第七章 查找：[click here]()
+第七章 查找：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%9F%A5%E6%89%BE.pdf)
 
 第八章 排序：[click here]()
