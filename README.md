@@ -3,7 +3,7 @@ My data structure study notes.这是我的数据结构学习笔记
 
 The book used in the course:《数据结构（C语言版）》，严蔚敏。
 
-![Data Structure]()
+![Data Structure](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/PICTURE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.jpg?raw=true)
 
 第一章 概论：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%A6%82%E8%AE%BA%20.pdf)
 
