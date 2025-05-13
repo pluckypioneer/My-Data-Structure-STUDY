@@ -5,6 +5,8 @@ The book used in the course:《数据结构（C语言版）》，严蔚敏。
 
 ![Data Structure](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/PICTURE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.jpg?raw=true)
 
+## Directory
+
 第一章 概论：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%A6%82%E8%AE%BA%20.pdf)
 
 第二章 线性表：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)
@@ -20,3 +22,7 @@ The book used in the course:《数据结构（C语言版）》，严蔚敏。
 第七章 查找：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%9F%A5%E6%89%BE.pdf)
 
 第八章 排序：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%8E%92%E5%BA%8F.pdf)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pluckypioneer/My-Data-Structure-STUDY&type=Date)](https://www.star-history.com/#pluckypioneer/My-Data-Structure-STUDY&Date)
