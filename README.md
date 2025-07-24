@@ -23,6 +23,10 @@ The book used in this course:《数据结构（C语言版）》，严蔚敏。
 
 第八章 排序：[click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/NOTES/%E6%8E%92%E5%BA%8F.pdf)
 
+搭配使用的电子书如下：
+
+电子书 [click here](https://github.com/pluckypioneer/My-Data-Structure-STUDY/blob/main/E-Books%E7%94%B5%E5%AD%90%E4%B9%A6/book_List.md) ，个人更推荐使用《算法》和《数据结构与算法分析C++语言描述》两本书。
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pluckypioneer/My-Data-Structure-STUDY&type=Date)](https://www.star-history.com/#pluckypioneer/My-Data-Structure-STUDY&Date)
